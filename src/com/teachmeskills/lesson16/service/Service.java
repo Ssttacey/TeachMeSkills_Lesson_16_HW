@@ -1,6 +1,6 @@
 package com.teachmeskills.lesson16.service;
 
-import com.teachmeskills.lesson16.Fabric.ClientCreation;
+import com.teachmeskills.lesson16.fabric.ClientCreation;
 import com.teachmeskills.lesson16.model.Client;
 
 import java.util.Iterator;

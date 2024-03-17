@@ -1,6 +1,6 @@
 package com.teachmeskills.lesson16.model;
 
-import com.teachmeskills.lesson16.Fabric.OrderCreation;
+import com.teachmeskills.lesson16.fabric.OrderCreation;
 
 public class Order extends OrderCreation {
     private String productName;

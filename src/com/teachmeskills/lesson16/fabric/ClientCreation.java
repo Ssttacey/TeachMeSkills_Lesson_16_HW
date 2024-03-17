@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson16.Fabric;
+package com.teachmeskills.lesson16.fabric;
 
 import com.teachmeskills.lesson16.model.Client;
 import com.teachmeskills.lesson16.constant.Constant;
